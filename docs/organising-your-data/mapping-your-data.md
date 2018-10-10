@@ -67,7 +67,7 @@ about constituent allergies (for individuals) or service area
 When mapping data into CiviCRM, decide if the information pertains to an
 individual, organization, or household. Additional information like
 "service area" only makes sense for Organizations. To find out how you
-can create custom fields, see the [Creating Custom Fields](/organising-your-data/creating-custom-fields.md).
+can create custom fields, see [Creating Custom Fields](/organising-your-data/creating-custom-fields.md).
 
 ## Relationships between constituents
 
@@ -98,8 +98,8 @@ only receive one letter. The designation "head of the household" helps
 organizations know who the letter should address. For example, you want
 to address the parent and not the child.
 
-To read more about configuring and using relationships, please see the
-the *Relationships* chapter in *Organising Your Data*. 
+To read more about configuring and using relationships, please see
+the [Relationships](/organising-your-data/relationships.md) chapter in *Organising Your Data*. 
 
 ## Activities
 
@@ -120,7 +120,7 @@ whether your organization needs different activity types in addition to
 those provide, such as training, review, exam, support etc.
 
 To read more about configuring and using activities, please see the
-*Activites* chapter in *Organising Your Data*.
+[Activities](/organising-your-data/activities.md) chapter in *Organising Your Data*.
 
 ## Webinars, events, performances, and meetings (CiviEvents)
 
@@ -138,7 +138,7 @@ types of events your organization hosts. This is helpful for evaluating
 how many people have participated in a similar series of events or
 whether someone prefers one kind of event over another.
 
-To read more about configuring and using events , please see the
+To read more about configuring and using events, please see the
 *Events* section later in this book.
 
 ## Memberships
@@ -216,7 +216,7 @@ together a range of activities and give you a high-level view to compare
 how people responded to your initiatives.
 
 You can start taking advantage of campaigns if your organization's
-fundraising initiatives fit well into a unique themes. Some examples of
+fundraising initiatives fit well into unique themes. Some examples of
 campaigns are year end pledge drives, or project specific fundraisers.
 Organizations often send several email appeals encouraging donors to
 support a particular project or fundraiser, such as a 'final notice' and
