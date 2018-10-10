@@ -8,7 +8,7 @@ planning of mapping your data into CiviCRM.
 
 Before thinking about CiviCRM structure, it is important to think about
 the systems you currently have in place to store and organise your data.
-Your data could be stored in a spreadsheets, another database or CRM
+Your data could be stored in spreadsheets, another database or CRM
 (i.e. Constant Contact, Convio or The Raiser's Edge), paper files or in
 someone's memory. In thinking about your contacts and their interactions
 with your organisation, talk to your co-workers, including those who
@@ -40,7 +40,7 @@ data:
     communicate with them?
 8.  How do you track activities and communications (emails, meetings,
     webinars, other events) that you have with your community?
-9.  Do you have a list of donors interests and preferences?
+9.  Do you have a list of donors' interests and preferences?
 10. How do you handle new contacts?
 11. What classifications or labels are you using for your existing
     contacts (ie. alumni, students, parents, major donor, volunteer)?
@@ -95,6 +95,6 @@ York?) and deleting obvious duplicates, accidental entries, outdated
 information, and corrupted records.
 
 The following chapters will help you understand what data CiviCRM can
-store and how the best to map your existing records into CiviCRM
+store and how best to map your existing records into CiviCRM
 structure. 
 
