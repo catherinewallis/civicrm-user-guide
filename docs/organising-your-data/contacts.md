@@ -24,7 +24,7 @@ Each contact record comes with a set of **core fields**, including:
     contacted by, and those that they do not want to be contacted by.
 
 You can define new **contact subtypes** based on the out of the box
-contact types.You can add custom fields that extend all contacts. You
+contact types. You can add custom fields that extend all contacts. You
 can also add custom fields that extend particular contact types or sub
 types.
 
@@ -50,7 +50,7 @@ contacts.
 
 Below we look at the most important parts of the contact screen
 (including most of the contact with pointers to other parts of the book
-where appropriate. 
+where appropriate). 
 
 ### Contact actions 
 
@@ -75,9 +75,9 @@ organisations, for example organisation name.
 
 #### Individual fields
 
-Individuals names are split into the following parts: prefix, first
+Individuals' names are split into the following parts: prefix, first
 name, middle name, last name, suffix and nickname (you don't have to use
-all of them). Prefixes and suffixes are selected from a drop down
+all of them). Prefixes and suffixes are selected from a dropdown
 list. If you can't find the value you want, you can add more options to
 the list from the following screen: **Administer CiviCRM** >
 **Customize Data and Screens** > **Dropdown Options** > **Individual
